@@ -1,7 +1,7 @@
 # Settings
 
 * **`liveServer.settings.port`:** Customize Port Number of your Live Server.  If you want random port number, set it as `0`.
-    *  _Default value is `5500`._
+    *  _Default value is `0`._
 
     <hr>
  
@@ -13,7 +13,7 @@
     <hr>
  
 * **`liveServer.settings.CustomBrowser`:** To change your system's default browser.
-    * _Default value is `null` ~~[String, not `null`]~~. (It will open your system's default browser.)_
+    * _Default value is `chrome` ~~[String, not `null`]~~. (It will open your system's default browser.)_
     * *Available Options :*
         * chrome
         * chrome:PrivateMode
